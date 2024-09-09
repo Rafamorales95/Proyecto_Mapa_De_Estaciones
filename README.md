@@ -16,3 +16,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 ## Correr el programa
+python main.py
