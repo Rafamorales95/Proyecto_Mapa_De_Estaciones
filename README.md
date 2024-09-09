@@ -7,13 +7,16 @@ git clone https://github.com/Rafamorales95/Proyecto_Mapa_De_Estaciones.git
 cd Proyecto_Mapa_De_Estaciones
 
 ## Crear ambiente virtual
+Si estas en windows o unix
 python -m venv venv
 
 ## Activa el entorno virtual:
-venv\Scripts\activate
+### Si estas en windows
+__venv\Scripts\activate__
+
+### Si estas en unix / linux / windows
+__pip install -r requirements.txt__
+
 
 ## Instala las dependencias:
-pip install -r requirements.txt
-
-## Correr el programa
-python main.py
+__pip install -r requirements.txt__
