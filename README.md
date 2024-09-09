@@ -8,7 +8,7 @@ cd Proyecto_Mapa_De_Estaciones
 
 ## Crear ambiente virtual
 Si estas en windows o unix
-python -m venv venv
+python -m venv venv si no sirve python3 -m venv venv
 
 ## Activa el entorno virtual:
 ### Si estas en windows
@@ -18,5 +18,5 @@ __venv\Scripts\activate__
 __pip install -r requirements.txt__
 
 
-## Instala las dependencias:
-__pip install -r requirements.txt__
+## Correr programa
+__python main.py__ Si no sirve Interntentar __python3 main.py__
