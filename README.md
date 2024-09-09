@@ -3,7 +3,7 @@
 ## Primero clona el repositorio
 git clone https://github.com/Rafamorales95/Proyecto_Mapa_De_Estaciones.git
 
-## Navega ak proyecto
+## Navega en el proyecto
 cd Proyecto_Mapa_De_Estaciones
 
 ## Crear ambiente virtual
