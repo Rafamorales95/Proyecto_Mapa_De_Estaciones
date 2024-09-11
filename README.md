@@ -1,6 +1,7 @@
 # Instrucciones para correr este proyecto
 
-## Instala La Base de datos 
+## Instala La Base de datos
+SQL_Estaci_servicios.sql
 
 
 ## Primero clona el repositorio
