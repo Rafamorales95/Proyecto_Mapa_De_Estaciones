@@ -1,5 +1,8 @@
 # Instrucciones para correr este proyecto
 
+## Instala La Base de datos 
+
+
 ## Primero clona el repositorio
 git clone https://github.com/Rafamorales95/Proyecto_Mapa_De_Estaciones.git
 
